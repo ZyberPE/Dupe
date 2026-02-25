@@ -1,0 +1,16 @@
+name: Duplication
+main: Duplication\Main
+version: 1.0.0
+api: 5.0.0
+author: zyberpe
+description: Simple duplication plugin
+
+commands:
+  dupe:
+    description: Duplicate your inventory into a chest
+    usage: /dupe
+    permission: dupe.allowed
+
+permissions:
+  dupe.allowed:
+    default: op
