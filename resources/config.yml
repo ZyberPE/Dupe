@@ -1,0 +1,3 @@
+messages:
+  no-permission: "§cYou do not have permission to use this command."
+  success: "§aYour inventory has been duplicated into a chest!"
